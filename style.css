@@ -100,7 +100,14 @@ body {
     justify-content: center;
     align-items: center;
     color: #fff;
+    cursor: pointer;
 }
+
+.card:hover {
+    background: #1A4031;
+    transition: 0.2s;
+}
+
 
 .card img {
     margin-right: 10px;
